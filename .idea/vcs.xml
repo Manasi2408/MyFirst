@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Github Python" vcs="Git" />
+=======
+    <mapping directory="" vcs="Git" />
+>>>>>>> 7af5b746177c917ac6afda984645697314052f89
   </component>
 </project>
